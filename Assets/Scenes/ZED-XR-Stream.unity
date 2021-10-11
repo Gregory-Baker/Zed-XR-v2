@@ -320,7 +320,7 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   topicName: head_rot
-  publishMessageFrequency: 0.01
+  publishMessageFrequency: 0
 --- !u!4 &532144624
 Transform:
   m_ObjectHideFlags: 0
